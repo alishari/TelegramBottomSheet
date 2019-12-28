@@ -1,2 +1,2 @@
 # TelegramBottomSheet
-![alt text](shots/colorful.png | width=250)
+<img src="shots/colorful.png" width="200"/>
