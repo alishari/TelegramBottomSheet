@@ -26,7 +26,6 @@ public class MainActivity extends BaseActivity {
 
         findViewById(R.id.openDialog).setOnClickListener(view -> {
             BottomSheet bottomSheet = builder.create();
-//            bottomSheet.setTitleColor(android.R.color.holo_red_dark);
             showDialog(bottomSheet);
         });
     }
